@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.description {
+  margin-top: 20px;
+  font-size: 15px;
+  color: white;
+  text-align: left;
+  display: inline-block;
+}
+
+.description p {
+  margin: 0 0 10px 0;
+  font-weight: bold;
+  color: white;
+}
+
+.description ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.description li {
+  margin: 5px 0;
+}
+
+code {
+  background-color: #333;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 14px;
+  color: white;
+}
+
+#patchButton {
+  margin-top: 20px;
+}
+
+.note {
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.github-link {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: black;
+  text-decoration: none;
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.github-link:hover {
+  background-color: darkgray;
+}
+
+.github-link i {
+  margin-right: 4px;
+}

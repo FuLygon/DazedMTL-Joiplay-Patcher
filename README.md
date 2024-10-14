@@ -1,5 +1,7 @@
 # DazedMTL plugins.js Patcher for JoiPlay
 
+**Archived:** [JoiPlay 1.20.540](https://www.patreon.com/posts/joiplay-1-20-540-112995251) have fixed the issues with Dazed MTL games. This patcher is no longer needed.
+
 JoiPlay version 1.20.500+ currently have some issue with DazedMTL games, most common issue are black screen when starting the game or `failed to load js/plugins.js` error. This patcher help converting the game `plugins.js` and possibly fix these issues. 
 
 If you still encountering any issue with the game, ask for support in the official JoiPlay Discord.
